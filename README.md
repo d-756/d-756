@@ -1,6 +1,6 @@
 
-### Hi there 👋 I'm Sean Wei
-- 🔭 I’m currently working as a full-stack software engineer
+### Hi there 👋 I'm Dan Rowe
+- 🔭 I’m a senior full-stack software engineer and freelancing now
 - 🌱 I’m currently learning Hybrid Mobile Solutions integrated with Mobile native Languages
 - 💬 Ask me about **how to build the high-performance web service**.
 
