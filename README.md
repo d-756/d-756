@@ -1,5 +1,5 @@
 
-### Hi there 👋 I'm Dan Rowe
+### Hi there 👋 
 - 🔭 I’m a senior full-stack software engineer and freelancing now
 - 🌱 I’m currently learning Hybrid Mobile Solutions integrated with Mobile native Languages
 - 💬 Ask me about **how to build the high-performance web service**.
