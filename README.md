@@ -7,6 +7,8 @@
 ### 📊 GitHub Stats:
 ![d-756's Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=d-756&show_icons=true&count_private=true&theme=solarized_dark)
 ![d-756's Stats](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=d-756&show_icons=true&count_private=true&theme=solarized_dark)
+![d-756's Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=vn7n24fzkq&theme=default)
+![d-756's Stats](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vn7n24fzkq&theme=default&utcOffset=8)
 <!-- ![d-756's Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=d-756&show_icons=true&count_private=true&theme=solarized_dark) -->
 
 
