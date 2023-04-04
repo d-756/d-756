@@ -7,12 +7,12 @@
 
 ### [![Top Stack](https://widget.realdeveloper.pro/api/top?stack=JavaScript,Node.js,Express.js,Nest.js,Bootstrap,TypeScript,Python,PHP,Laravel,C#,.NET,React,Angular,Vue)](https://github.com/d-756)
 
-### [![Badge](https://widget.realdeveloper.pro/api/badge?title=Languages%20and%20Framework&badges=JavaScript,React,Node.js,Express.js,Bootstrap,Typescript,Python,React-Native,Electron,SASS)](https://github.com/vitoriaroas)
+### [![Badge](https://widget.realdeveloper.pro/api/badge?title=Languages%20and%20Framework&badges=JavaScript,React,Node.js,Express.js,Bootstrap,Typescript,Python,React-Native,Electron,SASS)](https://github.com/d-756)
 
-### [![Badge](https://widget.realdeveloper.pro/api/badge?title=Database%20and%20DevOps&badges=MySQL,MongoDB,Mongoose,Firestore,Azure)](https://github.com/vitoriaroas)
+### [![Badge](https://widget.realdeveloper.pro/api/badge?title=Database%20and%20DevOps&badges=MySQL,MongoDB,Mongoose,Firestore,Azure)](https://github.com/d-756)
 
 
-### ![Vitoria's GitHub stats](https://github-readme-stats.vercel.app/api?username=vitoriaroas&show_icons=true&theme=radical) 
+### ![Vitoria's GitHub stats](https://github-readme-stats.vercel.app/api?username=d-756&show_icons=true&theme=radical) 
 
 
 
@@ -24,5 +24,5 @@
 <br />
 <hr />
 
-[gmail]: mailto:vitoriaroas@gmail.com/
-[Linkedin]: https://www.linkedin.com/in/vitoria-roas-9b542618a/ 
+[gmail]: mailto:/
+[Linkedin]: / 
