@@ -5,7 +5,7 @@
 
 ### ![](https://komarev.com/ghpvc/?username=your-github-d-756&color=ff69b4)
 
-### [![Top Stack](https://widget.realdeveloper.pro/api/top?stack=JavaScript,Node.js,React)](https://github.com/vitoriaroas)
+### [![Top Stack](https://widget.realdeveloper.pro/api/top?stack=JavaScript,Node.js,Express.js,Nest.js,Bootstrap,TypeScript,Python,PHP,Laravel,C#,.NET,React,Angular,Vue)](https://github.com/d-756)
 
 ### [![Badge](https://widget.realdeveloper.pro/api/badge?title=Languages%20and%20Framework&badges=JavaScript,React,Node.js,Express.js,Bootstrap,Typescript,Python,React-Native,Electron,SASS)](https://github.com/vitoriaroas)
 
