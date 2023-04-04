@@ -12,17 +12,4 @@
 ### [![Badge](https://widget.realdeveloper.pro/api/badge?title=Database%20and%20DevOps&badges=MySQL,MongoDB,Mongoose,Firestore,Azure)](https://github.com/d-756)
 
 
-### ![Vitoria's GitHub stats](https://github-readme-stats.vercel.app/api?username=d-756&show_icons=true&theme=radical) 
-
-
-
-### Let's connect!
-
-
-[<img height="30" src = "https://img.shields.io/badge/gmail-c14438?&style=flat&logo=gmail&logoColor=white">][gmail] 
-[<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=flat&logo=linkedin&logoColor=white" />][LinkedIn]
-<br />
-<hr />
-
-[gmail]: mailto:/
-[Linkedin]: / 
+### ![GitHub stats](https://github-readme-stats.vercel.app/api?username=d-756&show_icons=true&theme=radical) 
